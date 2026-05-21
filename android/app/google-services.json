@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "196204001554",
+    "firebase_url": "https://healthometer-23b02-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "healthometer-23b02",
+    "storage_bucket": "healthometer-23b02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196204001554:android:bbd9d17ff13d15cdabdbcb",
+        "android_client_info": {
+          "package_name": "com.example.healthguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196204001554-d4dsfg84n011sjj4omk9i345ksmceva0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthguard",
+            "certificate_hash": "2779da385b3389bd065aff9e6897339ce574020b"
+          }
+        },
+        {
+          "client_id": "196204001554-50t366qurm9rk343i8l8l6a5mkp3ge03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJ-HgS5GXnni-W92d5mVO_-gg1atSaD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196204001554-50t366qurm9rk343i8l8l6a5mkp3ge03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196204001554-1ff31o9jlm44o9s5nu03b13phk8vn9jp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthguard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196204001554:android:76cd00487c1354a9abdbcb",
+        "android_client_info": {
+          "package_name": "com.example.healthmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196204001554-i36g6bqj1bqtus3nbvlmu5vums7v3s51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthmeter",
+            "certificate_hash": "2779da385b3389bd065aff9e6897339ce574020b"
+          }
+        },
+        {
+          "client_id": "196204001554-50t366qurm9rk343i8l8l6a5mkp3ge03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJ-HgS5GXnni-W92d5mVO_-gg1atSaD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196204001554-50t366qurm9rk343i8l8l6a5mkp3ge03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196204001554-1ff31o9jlm44o9s5nu03b13phk8vn9jp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthguard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196204001554:android:eed0def7d0e4a6c8abdbcb",
+        "android_client_info": {
+          "package_name": "com.swapnilsalunke.healthguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196204001554-b2r9dqhu944h3eo6ddnkob3t2dkq9qm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swapnilsalunke.healthguard",
+            "certificate_hash": "efac78b013f0e3ccf04baf9267dab460291a0957"
+          }
+        },
+        {
+          "client_id": "196204001554-50t366qurm9rk343i8l8l6a5mkp3ge03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJ-HgS5GXnni-W92d5mVO_-gg1atSaD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196204001554-50t366qurm9rk343i8l8l6a5mkp3ge03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196204001554-1ff31o9jlm44o9s5nu03b13phk8vn9jp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthguard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

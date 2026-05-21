@@ -1,0 +1,15 @@
+{
+    "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "venv",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ],
+      "runtime": "python311" 
+    }
+  ],
+  "flutter":{"platforms":{"android":{"default":{"projectId":"healthometer-23b02","appId":"1:196204001554:android:bbd9d17ff13d15cdabdbcb","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"healthometer-23b02","configurations":{"android":"1:196204001554:android:bbd9d17ff13d15cdabdbcb","ios":"1:196204001554:ios:2ffd46a2a37a0de2abdbcb","macos":"1:196204001554:ios:2ffd46a2a37a0de2abdbcb","web":"1:196204001554:web:7a0e3e28bb5a14edabdbcb","windows":"1:196204001554:web:e4057287f1ce7525abdbcb"}}}}}}
